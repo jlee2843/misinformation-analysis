@@ -3,8 +3,15 @@
 # Misinformation Analysis
 In this project, I looked into characteristics and trends of the True and Fake News articles. Classification models are built using the provided data to label Russian Propaganda dataset, and observe the proportion of Fake News labels in the dataset. Hence the terminology _propaganda_ suggests, would the majority of the articles in the Russian Propaganda dataset be labelled as Fake News? I hope to derive an answer to the question through my analysis. 
 
+🔗 [Misinformation Analysis Web-based Application](https://misinformation-analysis.herokuapp.com) is created as a part of the submission process. 
+
 ---
-File Organization
+## File Organization
+- `raw_analysis.ipynb`: Codes for data exploration and modelling are included. All programming is done with Python.
+- `visuals_creation.ipynb`: Using cleaned data to create visualizations. This code is later copy & pasted onto `pages/create_visualization.py`. 
+
+**Warning**
+Since the original datasets and cleaned CSV files are large in size, they are not included in the current repository. Instead, you can find the original dataset in the `Conclusion` page of the web application. Cleaned CSV files can be seen in `raw_analysis.ipynb`. 
 
 ---
 
