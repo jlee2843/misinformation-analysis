@@ -3,6 +3,7 @@
 In this project, I looked into characteristics and trends of the True and Fake News articles. Classification models are built using the provided data to label Russian Propaganda dataset, and observe the proportion of Fake News labels in the dataset. Hence the terminology _propaganda_ suggests, would the majority of the articles in the Russian Propaganda dataset be labelled as Fake News? I hope to derive an answer to the question through my analysis. 
 
 ![Introduction](images/app_main_page.png)
+
 🔗 [Misinformation Analysis Web-based Application](https://misinformation-analysis.herokuapp.com) 
 🔗 [Presentation Video](https://www.youtube.com/watch?v=_6XdZhs73oE) 
 ---
