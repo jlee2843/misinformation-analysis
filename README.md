@@ -6,6 +6,7 @@ In this project, I looked into characteristics and trends of the True and Fake N
 <br>In total, 10 visualizations are created and can be accessed through the web-based application. 
 <br>🔗 [Misinformation Analysis Web-based Application](https://misinformation-analysis.herokuapp.com)
 <br>🔗 [Presentation Video](https://www.youtube.com/watch?v=_6XdZhs73oE) 
+<br>
 <br>![Introduction](images/app_main_page.png)
 
 ---
