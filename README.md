@@ -16,7 +16,7 @@ In this project, I looked into characteristics and trends of the True and Fake N
 - `visuals_creation.ipynb`: Using cleaned data to create visualizations. This code is later copy & pasted onto `pages/create_visualization.py`. 
 
 **Warning**:
-<bar>Since the original datasets and cleaned CSV files are large in size, they are not included in the current repository. Instead, you can find the original dataset in the `Conclusion` page of the web application. Cleaned CSV files can be seen in `raw_analysis.ipynb`. 
+<br>Since the original datasets and cleaned CSV files are large in size, they are not included in the current repository. Instead, you can find the original dataset in the `Conclusion` page of the web application. Cleaned CSV files can be seen in `raw_analysis.ipynb`. 
 
 ---
 
